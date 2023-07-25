@@ -1,4 +1,4 @@
-USE covid;
+USE Covid;
 -- LOAD DATA INFILE '/users/leonie/desktop/covidvaccinations.csv'
 -- INTO TABLE covid.Covidvaccinations
 -- FIELDS TERMINATED BY ',' 
